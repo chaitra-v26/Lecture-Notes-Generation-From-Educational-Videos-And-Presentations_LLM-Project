@@ -1,0 +1,2 @@
+# Lecture-Notes-Generation-From-Educational-Videos-And-Presentations_LLM-Project
+An AI-powered system that converts lecture videos and slides (PDF, PPT, PPTX) into structured notes using Whisper and Gemini. Generates quizzes, ASCII diagrams, and auto-evaluates notes across 5 educational criteria. Features an interactive Gradio UI for seamless input, output, and sharing. Ideal for educators, students &amp; study kit creation.
