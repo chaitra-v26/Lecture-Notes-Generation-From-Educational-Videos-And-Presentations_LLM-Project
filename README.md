@@ -202,7 +202,3 @@ Based on testing and evaluation:
 - **All open-source contributors** whose libraries made this project possible
 
 ---
-
-**📧 Contact**: For questions or contributions, please reach out to any of the team members listed above.
-
-**⭐ Star this repository** if you find it helpful for your educational content processing needs!
